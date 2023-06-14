@@ -8,7 +8,7 @@ You can add some information on your own web server
 ## Author
 
 **Alezuna Nadhif** 
-* *Initial work* - [alezunanadhif/list-data-siswa](https://github.com/alezunanadhif/list-data-siswa)
+* *Initial work* - [alezunanadhif/motivational-words-api](https://github.com/alezunanadhif/motivational-words-api)
 * *My professional profile on* [LinkedIn](https://www.linkedin.com/in/alezunanadhif/)
 
 ___
